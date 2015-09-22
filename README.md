@@ -12,4 +12,3 @@ you may see https://github.com/nbs-system/naxsi and https://github.com/nginx/ngi
 4. run naxsi_wl scripts to make naxsi white list rules for servers.
 
 have fun~
-test
